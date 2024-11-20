@@ -1,0 +1,29 @@
+.ingredientContainer {
+    display: flex;
+    margin-top: 50px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.ingredientImageContainer {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.ingredientContainer img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.ingredientName {
+font-size: large;
+font-weight: bold;
+}
+
+.ingredientAmount {
+font-weight: bold;
+margin-top: 10px;
+}

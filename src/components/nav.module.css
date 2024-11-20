@@ -1,0 +1,7 @@
+.nav {
+    font-size: 2em;
+    font-family: "문체부 제목 돋음체", "맑은 고딕", "Courier New", Courier, monospace;
+    color: #393e46;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+}

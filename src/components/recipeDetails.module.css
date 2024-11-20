@@ -1,0 +1,43 @@
+.detailsCard {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: "문체부 제목 돋음체", "맑은 고딕", "Courier New", Courier,
+    monospace;
+  color: #393e46;
+}
+
+.recipeTitle {
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.detailImg {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.recipeProps {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cookSteps {
+    padding: 0;
+    border-radius: 5px;
+    color: #393e46;
+}
+.cookSteps ol {
+    margin-left: -10px;
+}
+
+.cookSteps li {
+    margin: 20px 0;
+}
